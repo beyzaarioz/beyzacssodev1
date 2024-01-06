@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    font-size: 60px;
+}
+body{
+    background-color: beige;
+    margin:0 auto;
+    text-align:center;
+    width:960px;
+}
+h2{
+    color:orchid ;
+    font-size: 40px;
+}
+h3{
+    color: blueviolet;
+    font-size: 25px;
+}
+p{
+    color: black;
+    font-size: 18px;
+}
